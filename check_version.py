@@ -16,5 +16,6 @@ for proc in psutil.process_iter():
         version = GetVersion()
         if version:
             print("Process '{}' has called the GetVersion API".format(proc.name()))
+            
     except:
         pass
