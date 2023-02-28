@@ -5,7 +5,7 @@ This project is aimed at detecting ransomware by analyzing the API calls perform
 
 ## What is the problem that solves this project ?
 
-Detecting the rasonmware using presensing activities performed by the Ransomware.By taking the advantage of Presensing activities we can mitigate the Ransomware.
+Preventing the ransomware execution at early stages. Detecting the rasonmware using presensing activities performed by the Ransomware. By taking the advantage of Presensing activities which helps in mitigation.
 
 
 
