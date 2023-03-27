@@ -1,0 +1,6 @@
+Listing the process which called get_version_api
+smss.exe
+SDXHelper.exe
+audiodg.exe
+ Total process which generated this api call  336
+ process which are not whitlisted 3
