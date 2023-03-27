@@ -1,0 +1,17 @@
+Listing the process which called get_version_api
+wslhost.exe
+vpnkit.exe
+smss.exe
+vmwp.exe
+com.docker.service
+Docker Desktop.exe
+Teams.exe
+smartscreen.exe
+audiodg.exe
+vmcompute.exe
+SDXHelper.exe
+WidgetService.exe
+LocationNotificationWindows.exe
+vmmemWSL
+ Total process which generated this api call  342
+ process which are not whitlisted 14
