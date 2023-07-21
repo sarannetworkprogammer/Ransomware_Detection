@@ -17,4 +17,3 @@ Machine Learning
 Docker  
 
 
-## Reference paper : [On Ransomware Family Attribution Using Pre-Attack Paranoia Activities](https://ieeexplore.ieee.org/document/9536608)
